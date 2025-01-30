@@ -54,5 +54,10 @@ public class SoftAssertDemo extends CommonMethods {
 
 		System.out.println("After Soft.assert...");
 	}
+Hello World
+Hello World
+Hello World
+
+
 
 }
